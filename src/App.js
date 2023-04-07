@@ -7,7 +7,7 @@ import SearchIcon from './search.svg';
 
 // 2cf90a24
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=2cf90a24';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=2cf90a24';
 
 /*const movie1 = {
     "Title": "Barbie and the Diamond Castle",
